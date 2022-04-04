@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
 # i am Bruno Mendes da Silva 
-## ⏲️  Futuro Desenvolvedor Back-End
-## 📚 Estudante de Análise e Desenvolvimento de Sistemas
+### ⏲️  Futuro Desenvolvedor Back-End
+### 📚 Estudante de Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/Bsmendes">
