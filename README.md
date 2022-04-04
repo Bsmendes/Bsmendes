@@ -19,6 +19,10 @@
   <img align="center" alt="Bruno-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Bruno-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
  
-</div>
+  </div>
+  
+  ##
+   </div>
+   <a href = "bsmendes@outlook.com.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   
 
