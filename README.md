@@ -1,6 +1,6 @@
-# Hi there 👋
+## Hi there 👋
 
-# i am Bruno Mendes da Silva 
+## i am Bruno Mendes da Silva 
 ### ⏲️  Futuro Desenvolvedor Back-End
 ### 📚 Estudante de Análise e Desenvolvimento de Sistemas
 
