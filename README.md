@@ -1,6 +1,7 @@
-## Hi there 👋
 
-## i am Bruno Mendes da Silva 
+## Hi i am Bruno Mendes da Silva 
+## Enjoy The Silence and Welcome to my profile 
+
 ### ⏲️  Futuro Desenvolvedor Back-End
 ### 📚 Estudante de Análise e Desenvolvimento de Sistemas
 
