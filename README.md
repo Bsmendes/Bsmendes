@@ -2,7 +2,7 @@
 ## Hi i am Bruno Mendes da Silva 
 ## Welcome to my profile 
 
-### ⏲️  Desenvolvedor 
+###  Desenvolvedor Back-End
 
 <div align="center">
   <a href="https://github.com/Bsmendes">
