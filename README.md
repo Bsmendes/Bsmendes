@@ -1,9 +1,8 @@
 
 ## Hi i am Bruno Mendes da Silva 
-## ("Enjoy The Silence"); and Welcome to my profile 
+## Welcome to my profile 
 
-### ⏲️  Futuro Desenvolvedor Back-End
-### 📚 Estudante de Análise e Desenvolvimento de Sistemas
+### ⏲️  Desenvolvedor 
 
 <div align="center">
   <a href="https://github.com/Bsmendes">
